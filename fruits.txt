@@ -2,3 +2,4 @@ type of fruits:
 apples
 berries
 cherries
+durians
