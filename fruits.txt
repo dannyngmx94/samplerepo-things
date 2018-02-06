@@ -1,3 +1,4 @@
+type of fruits:
 apples
 berries
 cherries
