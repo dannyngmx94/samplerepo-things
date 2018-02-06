@@ -1,3 +1,4 @@
+type of colors:
 blue
 red
 white
